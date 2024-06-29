@@ -50,5 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Replace `yourusername` in the installation section with your actual GitHub username.
 - Customize the sections and content as per your specific project needs.
 - Include screenshots or GIFs if possible to showcase the website in action.
-
-This README provides a clear structure for potential users and contributors to understand the purpose of your project and how to interact with it effectively. Adjust the content and formatting to best suit your project's style and requirements.
